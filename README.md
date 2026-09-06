@@ -13,7 +13,7 @@ An automated key-bind script for executing complex Invoker spell combinations in
 
 ## 🔥 Key Feature: Boboev Procast
 
-This repository includes a specialized custom macro for executing the extended **Boboev Combo** with precise timings.
+This repository includes a specialized custom macro for executing the extended **Boboev Procast** with precise timings.
 
 ### ⚡ Executed Sequence:
 1. **Chaos Meteor**
