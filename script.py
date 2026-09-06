@@ -46,5 +46,5 @@ def full_combo():
     spell()
 
 keyboard.add_hotkey("=", full_combo)
-print("Script is ready. Press '=' to start")
-keyboard.wait("")
+print("Script is ready. Press '=' to start\nPress '0' to quit")
+keyboard.wait("0")
